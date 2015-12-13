@@ -1,0 +1,12 @@
+D:\programming\4.Operators\6.ConditionalStatements\Pairs\bin\Debug\Pairs.exe.config
+D:\programming\4.Operators\6.ConditionalStatements\Pairs\bin\Debug\Pairs.exe
+D:\programming\4.Operators\6.ConditionalStatements\Pairs\bin\Debug\Pairs.pdb
+D:\programming\4.Operators\6.ConditionalStatements\Pairs\obj\Debug\Pairs.csprojResolveAssemblyReference.cache
+D:\programming\4.Operators\6.ConditionalStatements\Pairs\obj\Debug\Pairs.exe
+D:\programming\4.Operators\6.ConditionalStatements\Pairs\obj\Debug\Pairs.pdb
+D:\programming\6.ConditionalStatements\Pairs\bin\Debug\Pairs.exe.config
+D:\programming\6.ConditionalStatements\Pairs\obj\Debug\Pairs.exe
+D:\programming\6.ConditionalStatements\Pairs\obj\Debug\Pairs.pdb
+D:\programming\6.ConditionalStatements\Pairs\bin\Debug\Pairs.exe
+D:\programming\6.ConditionalStatements\Pairs\bin\Debug\Pairs.pdb
+D:\programming\6.ConditionalStatements\Pairs\obj\Debug\Pairs.csprojResolveAssemblyReference.cache

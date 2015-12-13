@@ -1,0 +1,11 @@
+D:\programming\4.Operators\6.ConditionalStatements\02_BonusScore\bin\Debug\02_BonusScore.exe.config
+D:\programming\4.Operators\6.ConditionalStatements\02_BonusScore\bin\Debug\02_BonusScore.exe
+D:\programming\4.Operators\6.ConditionalStatements\02_BonusScore\bin\Debug\02_BonusScore.pdb
+D:\programming\4.Operators\6.ConditionalStatements\02_BonusScore\obj\Debug\02_BonusScore.exe
+D:\programming\4.Operators\6.ConditionalStatements\02_BonusScore\obj\Debug\02_BonusScore.pdb
+D:\programming\6.ConditionalStatements\02_BonusScore\bin\Debug\02_BonusScore.exe.config
+D:\programming\6.ConditionalStatements\02_BonusScore\obj\Debug\02_BonusScore.exe
+D:\programming\6.ConditionalStatements\02_BonusScore\obj\Debug\02_BonusScore.pdb
+D:\programming\6.ConditionalStatements\02_BonusScore\bin\Debug\02_BonusScore.exe
+D:\programming\6.ConditionalStatements\02_BonusScore\bin\Debug\02_BonusScore.pdb
+D:\programming\6.ConditionalStatements\02_BonusScore\obj\Debug\02_BonusScore.csprojResolveAssemblyReference.cache

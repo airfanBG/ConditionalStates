@@ -1,0 +1,8 @@
+D:\programming\4.Operators\6.ConditionalStatements\05_TheBiggestOf3\bin\Debug\05_TheBiggestOf3.exe.config
+D:\programming\4.Operators\6.ConditionalStatements\05_TheBiggestOf3\bin\Debug\05_TheBiggestOf3.exe
+D:\programming\4.Operators\6.ConditionalStatements\05_TheBiggestOf3\bin\Debug\05_TheBiggestOf3.pdb
+D:\programming\4.Operators\6.ConditionalStatements\05_TheBiggestOf3\obj\Debug\05_TheBiggestOf3.exe
+D:\programming\4.Operators\6.ConditionalStatements\05_TheBiggestOf3\obj\Debug\05_TheBiggestOf3.pdb
+D:\programming\6.ConditionalStatements\05_TheBiggestOf3\bin\Debug\05_TheBiggestOf3.exe.config
+D:\programming\6.ConditionalStatements\05_TheBiggestOf3\obj\Debug\05_TheBiggestOf3.exe
+D:\programming\6.ConditionalStatements\05_TheBiggestOf3\obj\Debug\05_TheBiggestOf3.pdb

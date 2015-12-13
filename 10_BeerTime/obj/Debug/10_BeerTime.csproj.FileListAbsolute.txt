@@ -1,0 +1,9 @@
+D:\programming\4.Operators\6.ConditionalStatements\10_BeerTime\bin\Debug\10_BeerTime.exe.config
+D:\programming\4.Operators\6.ConditionalStatements\10_BeerTime\bin\Debug\10_BeerTime.exe
+D:\programming\4.Operators\6.ConditionalStatements\10_BeerTime\bin\Debug\10_BeerTime.pdb
+D:\programming\4.Operators\6.ConditionalStatements\10_BeerTime\obj\Debug\10_BeerTime.csprojResolveAssemblyReference.cache
+D:\programming\4.Operators\6.ConditionalStatements\10_BeerTime\obj\Debug\10_BeerTime.exe
+D:\programming\4.Operators\6.ConditionalStatements\10_BeerTime\obj\Debug\10_BeerTime.pdb
+D:\programming\6.ConditionalStatements\10_BeerTime\bin\Debug\10_BeerTime.exe.config
+D:\programming\6.ConditionalStatements\10_BeerTime\obj\Debug\10_BeerTime.exe
+D:\programming\6.ConditionalStatements\10_BeerTime\obj\Debug\10_BeerTime.pdb

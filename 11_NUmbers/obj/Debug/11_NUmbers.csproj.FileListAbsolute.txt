@@ -1,0 +1,9 @@
+D:\programming\4.Operators\6.ConditionalStatements\11_NUmbers\bin\Debug\11_NUmbers.exe.config
+D:\programming\4.Operators\6.ConditionalStatements\11_NUmbers\bin\Debug\11_NUmbers.exe
+D:\programming\4.Operators\6.ConditionalStatements\11_NUmbers\bin\Debug\11_NUmbers.pdb
+D:\programming\4.Operators\6.ConditionalStatements\11_NUmbers\obj\Debug\11_NUmbers.csprojResolveAssemblyReference.cache
+D:\programming\4.Operators\6.ConditionalStatements\11_NUmbers\obj\Debug\11_NUmbers.exe
+D:\programming\4.Operators\6.ConditionalStatements\11_NUmbers\obj\Debug\11_NUmbers.pdb
+D:\programming\6.ConditionalStatements\11_NUmbers\bin\Debug\11_NUmbers.exe.config
+D:\programming\6.ConditionalStatements\11_NUmbers\obj\Debug\11_NUmbers.exe
+D:\programming\6.ConditionalStatements\11_NUmbers\obj\Debug\11_NUmbers.pdb

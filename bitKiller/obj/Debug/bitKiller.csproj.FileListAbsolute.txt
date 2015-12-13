@@ -1,0 +1,12 @@
+D:\programming\4.Operators\6.ConditionalStatements\bitKiller\bin\Debug\bitKiller.exe.config
+D:\programming\4.Operators\6.ConditionalStatements\bitKiller\bin\Debug\bitKiller.exe
+D:\programming\4.Operators\6.ConditionalStatements\bitKiller\bin\Debug\bitKiller.pdb
+D:\programming\4.Operators\6.ConditionalStatements\bitKiller\obj\Debug\bitKiller.csprojResolveAssemblyReference.cache
+D:\programming\4.Operators\6.ConditionalStatements\bitKiller\obj\Debug\bitKiller.exe
+D:\programming\4.Operators\6.ConditionalStatements\bitKiller\obj\Debug\bitKiller.pdb
+D:\programming\6.ConditionalStatements\bitKiller\bin\Debug\bitKiller.exe.config
+D:\programming\6.ConditionalStatements\bitKiller\obj\Debug\bitKiller.exe
+D:\programming\6.ConditionalStatements\bitKiller\obj\Debug\bitKiller.pdb
+D:\programming\6.ConditionalStatements\bitKiller\bin\Debug\bitKiller.exe
+D:\programming\6.ConditionalStatements\bitKiller\bin\Debug\bitKiller.pdb
+D:\programming\6.ConditionalStatements\bitKiller\obj\Debug\bitKiller.csprojResolveAssemblyReference.cache

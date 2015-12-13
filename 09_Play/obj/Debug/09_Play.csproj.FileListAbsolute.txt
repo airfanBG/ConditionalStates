@@ -1,0 +1,8 @@
+D:\programming\4.Operators\6.ConditionalStatements\09_Play\bin\Debug\09_Play.exe.config
+D:\programming\4.Operators\6.ConditionalStatements\09_Play\bin\Debug\09_Play.exe
+D:\programming\4.Operators\6.ConditionalStatements\09_Play\bin\Debug\09_Play.pdb
+D:\programming\4.Operators\6.ConditionalStatements\09_Play\obj\Debug\09_Play.exe
+D:\programming\4.Operators\6.ConditionalStatements\09_Play\obj\Debug\09_Play.pdb
+D:\programming\6.ConditionalStatements\09_Play\bin\Debug\09_Play.exe.config
+D:\programming\6.ConditionalStatements\09_Play\obj\Debug\09_Play.exe
+D:\programming\6.ConditionalStatements\09_Play\obj\Debug\09_Play.pdb

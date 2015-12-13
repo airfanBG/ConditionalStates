@@ -1,0 +1,8 @@
+D:\programming\4.Operators\6.ConditionalStatements\06_TheBiggestOf5\bin\Debug\06_TheBiggestOf5.exe.config
+D:\programming\4.Operators\6.ConditionalStatements\06_TheBiggestOf5\bin\Debug\06_TheBiggestOf5.exe
+D:\programming\4.Operators\6.ConditionalStatements\06_TheBiggestOf5\bin\Debug\06_TheBiggestOf5.pdb
+D:\programming\4.Operators\6.ConditionalStatements\06_TheBiggestOf5\obj\Debug\06_TheBiggestOf5.exe
+D:\programming\4.Operators\6.ConditionalStatements\06_TheBiggestOf5\obj\Debug\06_TheBiggestOf5.pdb
+D:\programming\6.ConditionalStatements\06_TheBiggestOf5\bin\Debug\06_TheBiggestOf5.exe.config
+D:\programming\6.ConditionalStatements\06_TheBiggestOf5\obj\Debug\06_TheBiggestOf5.exe
+D:\programming\6.ConditionalStatements\06_TheBiggestOf5\obj\Debug\06_TheBiggestOf5.pdb

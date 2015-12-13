@@ -1,0 +1,9 @@
+D:\programming\4.Operators\6.ConditionalStatements\08_DigitAsWord\bin\Debug\08_DigitAsWord.exe.config
+D:\programming\4.Operators\6.ConditionalStatements\08_DigitAsWord\bin\Debug\08_DigitAsWord.exe
+D:\programming\4.Operators\6.ConditionalStatements\08_DigitAsWord\bin\Debug\08_DigitAsWord.pdb
+D:\programming\4.Operators\6.ConditionalStatements\08_DigitAsWord\obj\Debug\08_DigitAsWord.csprojResolveAssemblyReference.cache
+D:\programming\4.Operators\6.ConditionalStatements\08_DigitAsWord\obj\Debug\08_DigitAsWord.exe
+D:\programming\4.Operators\6.ConditionalStatements\08_DigitAsWord\obj\Debug\08_DigitAsWord.pdb
+D:\programming\6.ConditionalStatements\08_DigitAsWord\bin\Debug\08_DigitAsWord.exe.config
+D:\programming\6.ConditionalStatements\08_DigitAsWord\obj\Debug\08_DigitAsWord.exe
+D:\programming\6.ConditionalStatements\08_DigitAsWord\obj\Debug\08_DigitAsWord.pdb

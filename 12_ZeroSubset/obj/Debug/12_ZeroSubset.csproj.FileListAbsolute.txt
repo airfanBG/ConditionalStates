@@ -1,0 +1,9 @@
+D:\programming\4.Operators\6.ConditionalStatements\12_ZeroSubset\bin\Debug\12_ZeroSubset.exe.config
+D:\programming\4.Operators\6.ConditionalStatements\12_ZeroSubset\bin\Debug\12_ZeroSubset.exe
+D:\programming\4.Operators\6.ConditionalStatements\12_ZeroSubset\bin\Debug\12_ZeroSubset.pdb
+D:\programming\4.Operators\6.ConditionalStatements\12_ZeroSubset\obj\Debug\12_ZeroSubset.csprojResolveAssemblyReference.cache
+D:\programming\4.Operators\6.ConditionalStatements\12_ZeroSubset\obj\Debug\12_ZeroSubset.exe
+D:\programming\4.Operators\6.ConditionalStatements\12_ZeroSubset\obj\Debug\12_ZeroSubset.pdb
+D:\programming\6.ConditionalStatements\12_ZeroSubset\bin\Debug\12_ZeroSubset.exe.config
+D:\programming\6.ConditionalStatements\12_ZeroSubset\obj\Debug\12_ZeroSubset.exe
+D:\programming\6.ConditionalStatements\12_ZeroSubset\obj\Debug\12_ZeroSubset.pdb

@@ -1,0 +1,9 @@
+D:\programming\4.Operators\6.ConditionalStatements\03_PlayCard\bin\Debug\03_PlayCard.exe.config
+D:\programming\4.Operators\6.ConditionalStatements\03_PlayCard\bin\Debug\03_PlayCard.exe
+D:\programming\4.Operators\6.ConditionalStatements\03_PlayCard\bin\Debug\03_PlayCard.pdb
+D:\programming\4.Operators\6.ConditionalStatements\03_PlayCard\obj\Debug\03_PlayCard.csprojResolveAssemblyReference.cache
+D:\programming\4.Operators\6.ConditionalStatements\03_PlayCard\obj\Debug\03_PlayCard.exe
+D:\programming\4.Operators\6.ConditionalStatements\03_PlayCard\obj\Debug\03_PlayCard.pdb
+D:\programming\6.ConditionalStatements\03_PlayCard\bin\Debug\03_PlayCard.exe.config
+D:\programming\6.ConditionalStatements\03_PlayCard\obj\Debug\03_PlayCard.exe
+D:\programming\6.ConditionalStatements\03_PlayCard\obj\Debug\03_PlayCard.pdb

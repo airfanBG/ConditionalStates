@@ -1,0 +1,6 @@
+D:\programming\4.Operators\6.ConditionalStatements\triangle\bin\Debug\triangle.exe.config
+D:\programming\4.Operators\6.ConditionalStatements\triangle\bin\Debug\triangle.exe
+D:\programming\4.Operators\6.ConditionalStatements\triangle\bin\Debug\triangle.pdb
+D:\programming\4.Operators\6.ConditionalStatements\triangle\obj\Debug\triangle.csprojResolveAssemblyReference.cache
+D:\programming\4.Operators\6.ConditionalStatements\triangle\obj\Debug\triangle.exe
+D:\programming\4.Operators\6.ConditionalStatements\triangle\obj\Debug\triangle.pdb

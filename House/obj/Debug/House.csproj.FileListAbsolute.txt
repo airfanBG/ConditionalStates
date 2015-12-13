@@ -1,0 +1,6 @@
+D:\programming\6.ConditionalStatements\House\bin\Debug\House.exe.config
+D:\programming\6.ConditionalStatements\House\bin\Debug\House.exe
+D:\programming\6.ConditionalStatements\House\bin\Debug\House.pdb
+D:\programming\6.ConditionalStatements\House\obj\Debug\House.csprojResolveAssemblyReference.cache
+D:\programming\6.ConditionalStatements\House\obj\Debug\House.exe
+D:\programming\6.ConditionalStatements\House\obj\Debug\House.pdb
